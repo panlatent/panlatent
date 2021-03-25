@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m PHPer | Gopher | C# ...
+
+- 🌱 I’m currently learning C# and .Net 5 ...
+
 <!--
 **panlatent/panlatent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
