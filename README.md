@@ -1,24 +1,49 @@
-### Hi there 👋
+### 👋 Hi there!
 
-I'm a developer and an amateur woodworker.
+I'm a web developer focused on backend and frontend development, with a strong passion for building elegant, maintainable systems.
 
-#### Craft
+---
 
-I am passionate about developing plugins for CraftCMS and enhancing the development experience.
+### 💻 Tech Stack
 
-##### Plugins
+**Backend:**
+- PHP
+- Laravel / Filament
+- Yii2 / Craft CMS
+
+**Frontend:**
+- Vue
+- TypeScript
+
+**Currently Learning:**
+- Babylon.js
+
+---
+
+### 🛠️ Craft CMS Plugins
+
+I love creating plugins to enhance the Craft CMS ecosystem and developer experience.
 
 - [Aliyun](https://github.com/panlatent/craft-aliyun)
 - [Vue Component](https://github.com/panlatent/craft-vue-component)
 - [Schedule](https://github.com/panlatent/schedule)
 - [Element Generator](https://github.com/panlatent/element-generator)
 
-##### Libraries/Extensions
+#### 📦 Craft CMS Libraries & Extensions
 
 - [Event Register](https://github.com/panlatent/craft-event-register)
 - [Attribute](https://github.com/panlatent/craft-attribute)
 - [Enums](https://github.com/panlatent/craft-enums)
 
+---
 
-#### Filament
+### 🌱 Side Interests
 
+Besides coding, I'm also an amateur woodworker — creating things both in code and in the workshop.
+
+---
+
+### 📫 Connect with me
+
+- [GitHub](https://github.com/panlatent)
+- [Website / Blog](https://panlatent.com)
