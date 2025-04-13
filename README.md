@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm a web developer focused on backend and frontend development, with a strong passion for building elegant, maintainable systems.
+I'm a web developer specialized in backend and frontend development, passionate about building elegant, maintainable systems.
 
 ---
 
@@ -13,16 +13,17 @@ I'm a web developer focused on backend and frontend development, with a strong p
 
 **Frontend:**
 - Vue
+- Tailwind CSS
 - TypeScript
 
-**Currently Learning:**
-- Babylon.js
+**Currently Exploring:**
+- Babylon.js (3D Web Graphics)
 
 ---
 
 ### 🛠️ Craft CMS Plugins
 
-I love creating plugins to enhance the Craft CMS ecosystem and developer experience.
+I love building plugins that extend and improve the Craft CMS developer experience.
 
 - [Aliyun](https://github.com/panlatent/craft-aliyun)
 - [Vue Component](https://github.com/panlatent/craft-vue-component)
@@ -35,10 +36,11 @@ I love creating plugins to enhance the Craft CMS ecosystem and developer experie
 - [Attribute](https://github.com/panlatent/craft-attribute)
 - [Enums](https://github.com/panlatent/craft-enums)
 
-
 ---
 
 ### 📊 GitHub Stats
+
+![panlatent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panlatent&show_icons=true&theme=radical&hide=issues)
 
 ![panlatent's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panlatent&layout=compact&theme=radical)
 
@@ -46,11 +48,16 @@ I love creating plugins to enhance the Craft CMS ecosystem and developer experie
 
 ### 🌱 Side Interests
 
-Besides coding, I'm also an amateur woodworker — creating things both in code and in the workshop.
+When I'm not writing code, I love making things — whether it's in the digital or physical world.
+
+- 🪵 **Woodworking**: Hand tools, joinery, and craftsmanship  
+- 🧠 **Smart Home Automation**: Tinkering with home assistant & IoT gadgets  
+- 🖨️ **3D Printing**: Printing with Bambu Lab printers, from functional parts to fun models  
+- 🎮 **3D Web Graphics**: Learning Babylon.js to blend code and visuals
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with Me
 
 - [GitHub](https://github.com/panlatent)
 - [Website / Blog](https://panlatent.com)
