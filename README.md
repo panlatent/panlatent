@@ -35,6 +35,13 @@ I love creating plugins to enhance the Craft CMS ecosystem and developer experie
 - [Attribute](https://github.com/panlatent/craft-attribute)
 - [Enums](https://github.com/panlatent/craft-enums)
 
+
+---
+
+### 📊 GitHub Stats
+
+![panlatent's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panlatent&layout=compact&theme=radical)
+
 ---
 
 ### 🌱 Side Interests
